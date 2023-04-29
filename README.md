@@ -1,3 +1,3 @@
 # Radio Shancayan
 
-Radio Shancayan config file - App backend
+Radio Shancayan config file - Mobile App backend
