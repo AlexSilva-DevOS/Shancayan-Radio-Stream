@@ -4,8 +4,8 @@
     "radio_name": "Radio Shancayan",
     "radio_genre": "Música Andina",
     "radio_url": "https://raymi.host/listen/shancayan/stream",
-    "radio_image_url": "https://perufolkradio.com/wp-content/uploads/2018/12/PFR.jpg",
-    "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/shancayan-logo.jpeg"
+    "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/shancayan.json",
+    "background_image_url": "https://www.perufolkradio.app/background_menu.png"
     }
     ],
     "settings": [
