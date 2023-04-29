@@ -1,0 +1,49 @@
+{
+    "radio": [
+    {
+    "radio_name": "Radio Shancayan",
+    "radio_genre": "Música Andina",
+    "radio_url": "https://raymi.host/listen/shancayan/stream",
+    "radio_image_url": "https://perufolkradio.com/wp-content/uploads/2018/12/PFR.jpg",
+    "background_image_url": "https://www.perufolkradio.app/background_menu.png"
+    }
+    ],
+    "settings": [
+    {
+    "onesignal_app_id": "944f4aa5-07bf-4e67-aeba-795ab55c8645",
+    "fcm_notification_topic": "peru_folk_radio_topic",
+    "privacy_policy_url": "https://perufolkradio.com/politica-de-privacidad/",
+    "more_apps_url": "https://play.google.com/store/apps/dev?id=6395038558735512473",
+    "website": "https://radioshancayan.com/",
+    "facebook": "https://www.facebook.com/profile.php?id=100064024833899",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51948648500",
+    "telegram": "https://t.me/perufolk",
+    "instagram": "https://www.instagram.com/perufolkradio"
+    }
+    ],
+    "ads": [
+    {
+    "ad_status": "off",
+    "ad_type": "admob",
+    "admob_publisher_id": "pub-3940256099942544",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+    "startapp_app_id": 0,
+    "unity_game_id": 4089993,
+    "unity_banner_placement_id": "banner",
+    "unity_interstitial_placement_id": "video",
+    "applovin_banner_unit_id": "0",
+    "applovin_interstitial_unit_id": "0",
+    "interstitial_ad_interval": 2
+    }
+    ],
+    "socials": [
+    {
+    "social_name": "Entradas Gala Andina",
+    "social_icon": "https://perufolkradio.app/icon_perufolkradio.png",
+    "social_url": "https://teleticket.com.pe/evento/gala-andina-en-barranco-centro-de-convenciones-bianca#"
+    }
+    ]
+    }
