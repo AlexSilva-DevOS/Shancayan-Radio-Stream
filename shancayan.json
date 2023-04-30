@@ -4,8 +4,8 @@
       "radio_name": "Radio Shancayan",
       "radio_genre": "La voz de la tierra",
       "radio_url": "https://raymi.host/listen/shancayan/stream",
-      "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/shancayan-logo.png",
-      "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/background_menu.png"
+      "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/shancayan-logo.png",
+      "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/background_menu.png"
     }
   ],
   "settings": [
