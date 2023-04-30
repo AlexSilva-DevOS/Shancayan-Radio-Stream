@@ -10,8 +10,8 @@
   ],
   "settings": [
     {
-      "onesignal_app_id": "944f4aa5-07bf-4e67-aeba-795ab55c8645",
-      "fcm_notification_topic": "peru_folk_radio_topic",
+      "onesignal_app_id": "",
+      "fcm_notification_topic": "",
       "privacy_policy_url": "https://perufolkradio.com/politica-de-privacidad/",
       "more_apps_url": "https://play.google.com/store/apps/dev?id=6395038558735512473",
       "website": "https://radioshancayan.com/",
@@ -40,9 +40,9 @@
   ],
   "socials": [
     {
-      "social_name": "Entradas Gala Andina",
-      "social_icon": "https://perufolkradio.app/icon_perufolkradio.png",
-      "social_url": "https://teleticket.com.pe/evento/gala-andina-en-barranco-centro-de-convenciones-bianca#"
+      "social_name": "",
+      "social_icon": "",
+      "social_url": ""
     }
   ]
 } 
