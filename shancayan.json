@@ -1,48 +1,80 @@
 {
   "radio": [
     {
-      "radio_name": "Radio Shancayan",
-      "radio_genre": "La voz de la tierra",
+      "radio_name": "Your Single Radio",
+      "radio_genre": "World",
       "radio_url": "https://raymi.host/listen/shancayan/stream",
       "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/shancayan-logo.png",
-      "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/Background-shancayan.png"
+      "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/Background-shancayan.png",
+      "blur_radio_background": "false",
+      "song_metadata": "true",
+      "image_album_art": "true",
+      "image_album_art_dynamic_background": "true",
+      "auto_play": "true"
     }
   ],
   "settings": [
     {
-      "onesignal_app_id": "",
-      "fcm_notification_topic": "",
+      "app_status": "1",
+      "onesignal_app_id": "944f4aa5-07bf-4e67-aeba-795ab55c8645",
+      "fcm_notification_topic": "peru_folk_radio_topic",
       "privacy_policy_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Privacy/shancayan.md",
       "more_apps_url": "https://radioshancayan.com/",
-      "website": "https://radioshancayan.com/",
-      "facebook": "https://www.facebook.com/profile.php?id=100064024833899",
-      "whatsapp": "https://api.whatsapp.com",
-      "instagram": "https://www.instagram.com/radio_shancayan/"
+      "redirect_url": ""
     }
   ],
   "ads": [
     {
-      "ad_status": "off",
+      "ad_status": "0",
       "ad_type": "admob",
+      "backup_ads": "none",
       "admob_publisher_id": "pub-3940256099942544",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "startapp_app_id": 0,
-      "unity_game_id": 4089993,
+      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
+      "applovin_banner_ad_unit_id": "0",
+      "applovin_interstitial_ad_unit_id": "0",
+      "applovin_native_ad_manual_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_placement_name": "DefaultBanner",
+      "ironsource_interstitial_placement_name": "DefaultInterstitial",
       "interstitial_ad_interval": 2
     }
   ],
   "socials": [
     {
-      "social_name": "",
-      "social_icon": "",
-      "social_url": ""
+      "social_name": "Website",
+      "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
+      "social_url": "https://radioshancayan.com/"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
+      "social_url": "https://www.facebook.com/profile.php?id=100064024833899"
+    },
+    {
+      "social_name": "Twitter",
+      "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
+      "social_url": "https://twitter.com/solodroiddev"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
+      "social_url": "https://www.instagram.com/radio_shancayan/"
     }
   ]
-} 
+}
