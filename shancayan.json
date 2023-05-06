@@ -1,8 +1,8 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
+      "radio_name": "Radio Shancayan",
+      "radio_genre": "Huaraz",
       "radio_url": "https://raymistream.net/listen/shancayan/stream",
       "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/shancayan-logo.png",
       "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/Background-shancayan.png",
