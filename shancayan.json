@@ -10,7 +10,7 @@
       "song_metadata": "true",
       "image_album_art": "true",
       "image_album_art_dynamic_background": "false",
-      "auto_play": "true"
+      "auto_play": "false"
     }
   ],
   "settings": [
@@ -20,6 +20,7 @@
       "fcm_notification_topic": "",
       "privacy_policy_url": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Privacy/shancayan.md",
       "more_apps_url": "https://radioshancayan.com/",
+      "website":"https://radioshancayan.com/",
       "redirect_url": ""
     }
   ],
