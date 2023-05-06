@@ -58,22 +58,22 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
+      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-web.png",
       "social_url": "https://radioshancayan.com/"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
+      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-facebook.png",
       "social_url": "https://www.facebook.com/profile.php?id=100064024833899"
     },
     {
-      "social_name": "Twitter",
-      "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
+      "social_name": "WhatsApp",
+      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-whatsapp.png",
+      "social_url": "https://www.whatsapp.com/"
     },
     {
       "social_name": "Instagram",
-      "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
+      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-instagram.png",
       "social_url": "https://www.instagram.com/radio_shancayan/"
     }
   ]
