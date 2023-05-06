@@ -58,23 +58,23 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-web.png",
+      "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/web.png",
       "social_url": "https://radioshancayan.com/"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-facebook.png",
+      "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/facebook.png",
       "social_url": "https://www.facebook.com/profile.php?id=100064024833899"
     },
     {
       "social_name": "WhatsApp",
-      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-whatsapp.png",
+      "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/whatsapp.png",
       "social_url": "https://www.whatsapp.com/"
     },
     {
       "social_name": "Instagram",
-      "social_icon": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Icons/icon-instagram.png",
-      "social_url": "https://www.instagram.com/radio_shancayan/"
+      "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/instagram.png",
+      "social_url": "https://www.instagram.com/radio_shancayan"
     }
   ]
 }
