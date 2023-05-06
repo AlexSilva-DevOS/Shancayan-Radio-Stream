@@ -16,8 +16,8 @@
   "settings": [
     {
       "app_status": "1",
-      "onesignal_app_id": "944f4aa5-07bf-4e67-aeba-795ab55c8645",
-      "fcm_notification_topic": "peru_folk_radio_topic",
+      "onesignal_app_id": "",
+      "fcm_notification_topic": "",
       "privacy_policy_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Privacy/shancayan.md",
       "more_apps_url": "https://radioshancayan.com/",
       "redirect_url": ""
