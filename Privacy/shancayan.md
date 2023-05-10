@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Radio Shancayan built the Radio Shancayan app as a Free app. This SERVICE is provided by Radio Shancayan at no cost and is intended for use as is.
 
