@@ -18,7 +18,7 @@
       "app_status": "1",
       "onesignal_app_id": "",
       "fcm_notification_topic": "",
-      "privacy_policy_url": "https://github.com/AlexSilva-DevOS/Shancayan-Radio-Stream/blob/main/Privacy/shancayan.md",
+      "privacy_policy_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Privacy/shancayan.md",
       "more_apps_url": "https://play.google.com/store/apps/details?id=com.radioshancayan.app",
       "redirect_url": ""
     }
